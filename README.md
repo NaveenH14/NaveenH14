@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaveenH14
 - 👀 I’m interested in Devops, Java SpringBoot.
-- 🌱 I’m currently learning Devops OpenSource toolstack. 
+- 🌱 I’m currently learning AI ML. 
 - 💞️ I’m looking to collaborate on opensource projects.
 - 📫 How to reach me naveenhiremath509@gmail.com
 
